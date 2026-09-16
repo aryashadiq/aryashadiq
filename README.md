@@ -1,5 +1,5 @@
 #  About Me:
-im just a silly guy
+
 im currently learning abou machine learning,data science, and web dev<br>
 
 
@@ -13,7 +13,7 @@ im currently learning abou machine learning,data science, and web dev<br>
 ![](https://streak-stats.demolab.com/?user=aryashadiq&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryashadiq&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###  
+![](im just a silly guy)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
