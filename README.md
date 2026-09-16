@@ -1,6 +1,6 @@
 #  About Me:
 
-im currently learning abou machine learning,data science, and web dev<br>
+im currently learning about machine learning,data science, and web dev<br>
 
 
 ##  Socials:
